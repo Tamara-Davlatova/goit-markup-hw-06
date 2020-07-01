@@ -263,6 +263,7 @@ address {
   border-radius: 4px;
   margin-right: 12px;
   padding: 15px 16px;
+  color: #ffffff;
 }
 .social-links {
   display: flex;
